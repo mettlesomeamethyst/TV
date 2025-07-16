@@ -2716,12 +2716,6 @@ https://example.com.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium851/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipitalyvssouthafrica" tvg-name="Water polo | World Championship : Italy vs South Africa (07:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_South Africa.png" group-title="Eventi Live",Water polo | World Championship : Italy vs South Africa (07:45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
 #EXTINF:-1 tvg-id="worldchampionshipgreecevscroatia" tvg-name="Water polo | World Championship : Greece vs Croatia (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Greece_vs_Croatia.png" group-title="Eventi Live",Water polo | World Championship : Greece vs Croatia (11:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
