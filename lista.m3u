@@ -2710,27 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavspolessya" tvg-name="Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Polessya.png" group-title="Eventi Live",Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)
-https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavspolessya" tvg-name="Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Polessya.png" group-title="Eventi Live",Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/49/2/diamond-league-logo-png_seeklogo-490221.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/49/2/diamond-league-logo-png_seeklogo-490221.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium852/mono.m3u8
-
 #EXTINF:-1 tvg-id="eurobasketgreecevsitaly" tvg-name="Basketball | EuroBasket : Greece vs Italy (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Greece_vs_Italy.png" group-title="Eventi Live",Basketball | EuroBasket : Greece vs Italy (20:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
