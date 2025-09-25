@@ -2710,7 +2710,7 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecrenatevsospitaletto" tvg-name="Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)" tvg-logo="https://renateclinic.com/wp-content/uploads/2019/12/RENATE-logo.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)
+#EXTINF:-1 tvg-id="italyseriecrenatevsospitaletto" tvg-name="Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Ospitaletto.png" group-title="Eventi Live",Soccer | Italy - Serie C : Renate vs Ospitaletto (18:30)
 https://thedaddy.click/stream/stream-5.php
 
 #EXTINF:-1 tvg-id="italyseriecpropatriavsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Pro Patria vs AlbinoLeffe (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_AlbinoLeffe.png" group-title="Eventi Live",Soccer | Italy - Serie C : Pro Patria vs AlbinoLeffe (18:30)
@@ -2719,7 +2719,7 @@ https://thedaddy.click/stream/stream-6.php
 #EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsalcione" tvg-name="Soccer | Italy - Serie C : Union ArzignanoChiampo vs Alcione (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Alcione.png" group-title="Eventi Live",Soccer | Italy - Serie C : Union ArzignanoChiampo vs Alcione (18:30)
 https://thedaddy.click/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsvirtusverona" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/568741.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovsvirtusverona" tvg-name="Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Virtus Verona.png" group-title="Eventi Live",Soccer | Italy - Serie C : Giana Erminio vs Virtus Verona (18:30)
 https://thedaddy.click/stream/stream-8.php
 
 #EXTINF:-1 tvg-id="italyseriectrentovspergolettese" tvg-name="Soccer | Italy - Serie C : Trento vs Pergolettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Pergolettese.png" group-title="Eventi Live",Soccer | Italy - Serie C : Trento vs Pergolettese (18:30)
@@ -2809,7 +2809,7 @@ https://new.newkso.ru/wind/premium854/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (11:00)" tvg-logo="https://static3.tildacdn.com/tild6165-3938-4138-a438-336339313333/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (11:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (11:00)" tvg-logo="https://static3.tildacdn.com/tild3938-3432-4362-b632-333938306565/logo.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (11:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -2821,19 +2821,13 @@ https://new.newkso.ru/ddy6/premium576/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="motogpgrandprixofjapanfreepractice" tvg-name="Motorsport | MotoGP : Grand Prix of Japan Free Practice (02:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Grand Prix of Japan Free Practice (02:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium575/mono.m3u8
-
 #EXTINF:-1 tvg-id="moto2grandprixofjapanfreepractice" tvg-name="Motorsport | Moto 2 : Grand Prix of Japan Free Practice (03:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Motorsport | Moto 2 : Grand Prix of Japan Free Practice (03:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="mensspeedfinalworldchampionshipsseoul" tvg-name="Climbing | Men's Speed | Final World Championships | Seoul (12:45)" tvg-logo="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw82dc49b8/content/seasonal-content/banners/pdps/2023/04/14/speed-solo-wp-glam-shot.png" group-title="Eventi Live",Climbing | Men's Speed | Final World Championships | Seoul (12:45)
+#EXTINF:-1 tvg-id="mensspeedfinalworldchampionshipsseoul" tvg-name="Climbing | Men's Speed | Final World Championships | Seoul (12:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Climbing | Men's Speed | Final World Championships | Seoul (12:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
