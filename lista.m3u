@@ -2710,9 +2710,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="bundesligaunionberlinvshamburgersv" tvg-name="Soccer | Bundesliga : Union Berlin vs Hamburger SV (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Berlin_vs_Hamburger SV.png" group-title="Eventi Live",Soccer | Bundesliga : Union Berlin vs Hamburger SV (19:30)
-https://thedaddy.click/stream/stream-152.php
-
 #EXTINF:-1 tvg-id="italyseriecleccovsgianaerminio" tvg-name="Soccer | Italy - Serie C : Lecco vs Giana Erminio (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Giana Erminio.png" group-title="Eventi Live",Soccer | Italy - Serie C : Lecco vs Giana Erminio (20:30)
 https://thedaddy.click/stream/stream-153.php
 
@@ -2733,12 +2730,6 @@ https://new.newkso.ru/nfs/premium877/mono.m3u8
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="globalchampionstourviennashowjumping" tvg-name="Equestrian | Global Champions Tour | Vienna show jumping (20:00)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b89d98214434995.67583b94b4558.png" group-title="Eventi Live",Equestrian | Global Champions Tour | Vienna show jumping (20:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium878/mono.m3u8
 
 #EXTINF:-1 tvg-id="serieacapursovscatania" tvg-name="Futsal | Serie A : Capurso vs Catania (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Capurso_vs_Catania.png" group-title="Eventi Live",Futsal | Serie A : Capurso vs Catania (20:45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
