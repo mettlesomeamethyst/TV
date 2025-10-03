@@ -742,13 +742,13 @@ https://vavoo.to/play/1289777017/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1907000512/index.m3u8
+https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2178717282/index.m3u8
+https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1795,12 +1795,6 @@ https://thedaddy.click/stream/stream-15.php
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium577/mono.m3u8
-
 #EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
@@ -1808,12 +1802,6 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="seriea2mestrevsbalturcento" tvg-name="Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mestre_vs_Baltur Cento.png" group-title="Eventi Live",Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://www.erome.fr/wp-content/uploads/2023/02/logo-drome.png" group-title="Eventi Live",Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
