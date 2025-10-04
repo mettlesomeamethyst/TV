@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1909,17 +1909,11 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="http://www.getsready.com/wp-content/uploads/2017/01/Beijing-best-places-to-visit.jpg" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
+#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://news.cgtn.com/news/2023-03-01/Bell-and-Drum-Towers-a-highlight-of-Central-Axis-of-Beijing-1hOMITSqMeI/img/865a16ab4cb64bb09d6b2e687b47b6e8/865a16ab4cb64bb09d6b2e687b47b6e8-750.png" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
-
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice3" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 3 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 3 (11:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium577/mono.m3u8
 
 #EXTINF:-1 tvg-id="formula1siasingaporegrandprixqualifying" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1927,13 +1921,13 @@ https://new.newkso.ru/nfs/premium577/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="Motorsport | World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/053/744/non_2x/world-globe-earth-map-png.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 1st Race (19:00)
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="Motorsport | World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://wallpapers.com/images/hd/world-d-0y3u9m3nbibv7akg.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 1st Race (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.uarc.uec.ac.jp/2022UEC_Seminar/uec.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1944,12 +1938,6 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium882/mono.m3u8
-
-#EXTINF:-1 tvg-id="rugbychampionshipaustraliavsnewzealand" tvg-name="Rugby Union | Rugby Championship : Australia vs New Zealand (11:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Australia_vs_New Zealand.png" group-title="Eventi Live",Rugby Union | Rugby Championship : Australia vs New Zealand (11:45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/ddy6/premium462/mono.m3u8
 
 #EXTINF:-1 tvg-id="rugbychampionshipargentinavssouthafrica" tvg-name="Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_South Africa.png" group-title="Eventi Live",Rugby Union | Rugby Championship : Argentina vs South Africa (15:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
