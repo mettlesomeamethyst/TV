@@ -400,13 +400,13 @@ https://vavoo.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3165086929/index.m3u8
+https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2881739927/index.m3u8
+https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1024,13 +1024,13 @@ https://vavoo.to/play/996680722/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2749478718/index.m3u8
+https://vavoo.to/play/3107500995/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/1200px-TV8_Logo_2016.svg.png" group-title="Altro",CANALE 8 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3107500995/index.m3u8
+https://vavoo.to/play/2749478718/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARINA TV" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1180,13 +1180,13 @@ https://vavoo.to/play/2392139008/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1565298794/index.m3u8
+https://vavoo.to/play/1200985239/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1200985239/index.m3u8
+https://vavoo.to/play/1565298794/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1774,24 +1774,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieawomenintermilanovsternana" tvg-name="All Soccer Events | Italy - Serie A (women) : Inter Milano vs Ternana (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter Milano_vs_Ternana.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Inter Milano vs Ternana (12:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="italyserieawomenromavsparma" tvg-name="All Soccer Events | Italy - Serie A (women) : Roma vs Parma (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Parma.png" group-title="Eventi Live",All Soccer Events | Italy - Serie A (women) : Roma vs Parma (12:30)
-https://thedaddy.click/stream/stream-108.php
-
-#EXTINF:-1 tvg-id="bundesliga2holsteinkielvsdarmstadt98" tvg-name="All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Holstein Kiel_vs_Darmstadt 98.png" group-title="Eventi Live",All Soccer Events | Bundesliga 2 : Holstein Kiel vs Darmstadt 98 (13:00)
-https://thedaddy.click/stream/stream-190.php
-
-#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvstottenhamhotspur" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Tottenham Hotspur.png" group-title="Eventi Live",All Soccer Events | England - Premier League : Leeds United vs Tottenham Hotspur (13:30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium870/mono.m3u8
-
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Lumezzane (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Lumezzane.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Giana Erminio vs Lumezzane (14:30)
 https://thedaddy.click/stream/stream-25.php
 
@@ -1909,25 +1891,19 @@ https://new.newkso.ru/wind/premium870/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="https://news.cgtn.com/news/2023-03-01/Bell-and-Drum-Towers-a-highlight-of-Central-Axis-of-Beijing-1hOMITSqMeI/img/865a16ab4cb64bb09d6b2e687b47b6e8/865a16ab4cb64bb09d6b2e687b47b6e8-750.png" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
+#EXTINF:-1 tvg-id="beijingwtasemifinalsshanghaiatp2ndround" tvg-name="Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)" tvg-logo="http://www.getsready.com/wp-content/uploads/2017/01/Beijing-best-places-to-visit.jpg" group-title="Eventi Live",Tennis | Beijing-WTA Semifinals; Shanghai-ATP 2nd Round (14:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixqualifying" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixqualifying" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Qualifying (15:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium577/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="Motorsport | World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="https://wallpapers.com/images/hd/world-d-0y3u9m3nbibv7akg.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 1st Race (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="uecroadeuropeanchampionshipswomenseliteroadraceprivasguilherandgranges117km" tvg-name="Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)" tvg-logo="http://www.uarc.uec.ac.jp/2022UEC_Seminar/uec.png" group-title="Eventi Live",Cycling | UEC Road European Championships Women's Elite Road Race | Privas - Guilherand-Granges (117km) (13:30)
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations1strace" tvg-name="Motorsport | World Championship | Motocross of Nations 1st Race (19:00)" tvg-logo="http://pluspng.com/img-png/globe-hd-png-download-png-image-earth-png-pic-1107.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 1st Race (19:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
