@@ -1774,9 +1774,6 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebmodenavsvirtusentella" tvg-name="All Soccer Events | Italy - Serie B : Modena vs Virtus Entella (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Virtus Entella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie B : Modena vs Virtus Entella (19:30)
-https://thedaddy.click/stream/stream-106.php
-
 #EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_AlbinoLeffe.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe (20:30)
 https://thedaddy.click/stream/stream-166.php
 
@@ -1813,25 +1810,13 @@ https://new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="motocrossofnationsrace1ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 1 | Ironman Raceway (19:00)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 1 | Ironman Raceway (19:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium879/mono.m3u8
-
 #EXTINF:-1 tvg-id="motocrossofnationsrace2ironmanraceway" tvg-name="Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)" tvg-logo="https://www.cyclenews.com/wp-content/uploads/2024/08/2024MotoCombineLogo_AirForce-Ironman-1.png" group-title="Eventi Live",Motorsport | Motocross of Nations Race 2 | Ironman Raceway (20:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://www.ironman.com/sites/default/files/styles/coh_medium/public/2025-04/2026_IM_70.3_World_Championship_Qualifier_Badge_800x800_0.png?itok=f-aDx-Yt" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://new.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="ucicrosscountryolympicworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Olympic World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series (19:00)
+#EXTINF:-1 tvg-id="worldchampionshipmotocrossofnations3rdrace" tvg-name="Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)" tvg-logo="https://nirvanaeurope.com/wp-content/uploads/2023/05/IM70.3-WC-2024.png" group-title="Eventi Live",Motorsport | World Championship | Motocross of Nations 3rd Race (22:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
