@@ -514,13 +514,13 @@ https://vavoo.to/play/1482866609/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1774,7 +1774,7 @@ https://vavoo.to/play/2989824407/index.m3u8
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="shanghaiatproundof16wuhanwta1stround" tvg-name="Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://images.slivcdn.com/videoasset_images/rolexshanghaimasters2024_match_masthead_logo_round4_hlts.png?q=high" group-title="Eventi Live",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
+#EXTINF:-1 tvg-id="shanghaiatproundof16wuhanwta1stround" tvg-name="Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/sweeny-2023-head-august.png" group-title="Eventi Live",Tennis | Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (14:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
@@ -1792,7 +1792,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="trevallivaresinewomenbustoarsiziovarese1363km" tvg-name="Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)
+#EXTINF:-1 tvg-id="trevallivaresinewomenbustoarsiziovarese1363km" tvg-name="Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)" tvg-logo="https://www.trevallivaresine.it/wp-content/uploads/2023/07/tre-valli-vert.png" group-title="Eventi Live",Cycling | Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (11:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
