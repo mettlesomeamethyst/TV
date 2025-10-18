@@ -1234,13 +1234,13 @@ https://vavoo.to/play/2835333400/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referer=https://vavoo.to/
 #EXTVLCOPT:http-origin=https://vavoo.to
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -1840,7 +1840,7 @@ https://thedaddy.click/stream/stream-160.php
 #EXTINF:-1 tvg-id="italyseriecospitalettovscittadella" tvg-name="All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ospitaletto_vs_Cittadella.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Ospitaletto vs Cittadella (17:30)
 https://thedaddy.click/stream/stream-164.php
 
-#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="http://www.alkimiagubbio.com/wp-content/uploads/2021/11/logo_comune_gubbio.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
+#EXTINF:-1 tvg-id="italyseriecgubbiovsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)" tvg-logo="https://content.tuttocampo.it/Web/Images/Teams/Original/1100813.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Gubbio vs Nuova Monterosi (17:30)
 https://thedaddy.click/stream/stream-213.php
 
 #EXTINF:-1 tvg-id="italyseriecpianesevsbra" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)" tvg-logo="https://www.tradestockltd.co.uk/wp-content/uploads/2025/01/BRA-LOGO.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Bra (17:30)
@@ -1906,7 +1906,7 @@ https://new.newkso.ru/wind/premium878/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://new.newkso.ru/ddy6/premium462/mono.m3u8
 
-#EXTINF:-1 tvg-id="serieaelitemoglianovsrovigo" tvg-name="Rugby Union | Serie A Elite : Mogliano vs Rovigo (15:30)" tvg-logo="https://images.seeklogo.com/logo-png/61/2/provincia-di-rovigo-logo-png_seeklogo-610266.png" group-title="Eventi Live",Rugby Union | Serie A Elite : Mogliano vs Rovigo (15:30)
+#EXTINF:-1 tvg-id="serieaelitemoglianovsrovigo" tvg-name="Rugby Union | Serie A Elite : Mogliano vs Rovigo (15:30)" group-title="Eventi Live",Rugby Union | Serie A Elite : Mogliano vs Rovigo (15:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
